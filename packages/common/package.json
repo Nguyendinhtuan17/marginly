@@ -27,9 +27,9 @@
     "chai": "^4.3.7"
   },
   "dependencies": {
-    "ethers": "^5.7.2",
+    "ethers": "^6.0.0",
     "node-fetch": "^2.6.9",
-    "ws": "^8.13.0"
+    "ws": "^8.17.1"
   },
   "exports": {
     ".": "./dist/index.js",
