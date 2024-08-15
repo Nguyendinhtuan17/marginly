@@ -21,7 +21,7 @@
     "@marginly/logger-node": "^1.0.0",
     "@aave/core-v3": "^1.18.0",
     "commander": "^8.1.0",
-    "ethers": "^5.7.2",
+    "ethers": "^6.0.0",
     "dotenv": "^16.3.1"
   },
   "devDependencies": {
