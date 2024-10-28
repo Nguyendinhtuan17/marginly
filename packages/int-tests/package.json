@@ -15,7 +15,7 @@
     "@marginly/contracts": "0.1.0"
   },
   "dependencies": {
-    "@ganache/ethereum": "^0.6.0",
+    "@ganache/ethereum": "^0.8.0",
     "@nomiclabs/hardhat-ethers": "^2.2.1",
     "@openzeppelin/contracts": "^4.8.0",
     "@marginly/common": "0.1.0",
