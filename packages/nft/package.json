@@ -37,7 +37,7 @@
     "hardhat-deploy": "^0.11.37",
     "hardhat-gas-reporter": "^1.0.9",
     "mocha": "^10.2.0",
-    "solhint": "3.3.7",
+    "solhint": "3.4.0",
     "solhint-plugin-prettier": "0.0.5",
     "solidity-coverage": "^0.8.5",
     "ts-node": "^10.9.1",
